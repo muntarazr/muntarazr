@@ -1,12 +1,11 @@
 ### Hi there 👋 I'm Muntadhar
 
-<a href="https://wbtio-site.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0891B2&background=FFFFFF00&center=false&vCenter=true&width=480&lines=Full-Stack+%26+AI+Systems+Engineer;Founder+%40+WBTIO;Building+METRIX" alt="Typing SVG" />
+<a href="https://github.com/muntarazr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0891B2&background=FFFFFF00&center=false&vCenter=true&width=480&lines=Full-Stack+%26+AI+Systems+Engineer;Building+METRIX;Open+Source+Enthusiast" alt="Typing SVG" />
 </a>
 
-* 🚀 Founder & Lead Engineer at [WBTIO](https://wbtio-site.vercel.app/)
 * 🛠️ Currently building [METRIX](https://github.com/muntarazr/metrix) — AI-driven goal tracking, reverse engineering & execution ecosystem
-* 🤖 Passionate about Autonomous AI Agents, API Reverse Engineering & High-Performance Full-Stack Systems
+* 🤖 Deeply passionate about Autonomous AI Agents, API Reverse Engineering & High-Performance Full-Stack Systems
 * 🌍 Based in Basra, Iraq 🇮🇶
 * 🧑‍💻 *"Best way to learn is to build shit"* — Theo
 
@@ -34,15 +33,13 @@
 ### Featured Projects
 
 * ⚡ **[METRIX](https://github.com/muntarazr/metrix)** — AI-driven goal tracking and planning ecosystem built with Next.js 16, Supabase, Gemini & Mistral.
-* 🌐 **[WBTIO](https://wbtio-site.vercel.app/)** — AI automation systems, reverse-engineered workflows, and high-impact digital solutions.
 * 📲 **[vphone-cli](https://github.com/muntarazr/vphone-cli)** — Swift-powered virtual device command-line automation.
 
 ### Connect & Collaborate
 
-Reach out for partnerships, engineering collaborations, or consultations:
+Reach out for engineering collaborations, open source, or discussions:
 
 * 💼 **LinkedIn:** [linkedin.com/in/muntarazr](https://linkedin.com/in/muntarazr)
-* 🌐 **Portfolio:** [wbtio-site.vercel.app](https://wbtio-site.vercel.app/)
 * 𝕏 **X (Twitter):** [@wbtiox](https://x.com/wbtiox)
 * 📺 **YouTube:** [@wbtio2](https://www.youtube.com/@wbtio2)
 * 📸 **Instagram:** [@wbt.io](https://www.instagram.com/wbt.io/)
