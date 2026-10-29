@@ -43,4 +43,7 @@ Reach out for partnerships, engineering collaborations, or consultations:
 
 * 💼 **LinkedIn:** [linkedin.com/in/muntarazr](https://linkedin.com/in/muntarazr)
 * 🌐 **Portfolio:** [wbtio-site.vercel.app](https://wbtio-site.vercel.app/)
+* 𝕏 **X (Twitter):** [@wbtiox](https://x.com/wbtiox)
+* 📺 **YouTube:** [@wbtio2](https://www.youtube.com/@wbtio2)
+* 📸 **Instagram:** [@wbt.io](https://www.instagram.com/wbt.io/)
 * 📧 **Email:** [muntarazr@gmail.com](mailto:muntarazr@gmail.com)
